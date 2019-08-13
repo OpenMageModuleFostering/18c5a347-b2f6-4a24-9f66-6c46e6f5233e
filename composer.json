@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/18c5a347-b2f6-4a24-9f66-6c46e6f5233e",
+    "type": "magento-module",
+    "license": "MIT-License",
+    "homepage": "",
+    "description": "Marktfeed is dé tool voor webshophouders die producten volledig automatisch op Marktplaats willen plaatsen.",
+    "authors": [
+    {
+        "name": "EasyAds",
+        "email": "development@easyads.eu"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
